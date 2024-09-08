@@ -1,4 +1,4 @@
-# HOTELİER Reservation bir .NET 8.0 ürünüdür. ASPNET.IdentityCore ile güçlendirilmiştir. Admin Paneli resimleri alt taraftadır. En alta 1 adet gif mevcuttur. Birçok teknoloji kullanılmıştır.
+# HOTELİER Reservation bir .NET 8.0 ürünüdür. ASPNET.IdentityCore ile güçlendirilmiştir. Admin Paneli resimleri alt taraftadır. En alta 1 adet gif mevcuttur. Rapid Api den hazır api çekme gibi teknikler kullanılarak veri listeleme ve bunun dışında birçok teknoloji kullanılmıştır. Rapid Api ile ilgili resimler de altta mevcuttur.
 
 # OTEL REZERVASYON BÖLÜMÜ :
 
@@ -175,6 +175,32 @@
 
 ### Admin Panelde Hızlı Tur (Aşağıda gif yoksa bekleyin internet hızınıza bağlı yüklenecektir):
 ![Ekran+Kaydı+2024-09-08+184328](https://github.com/user-attachments/assets/3f66f046-302b-4618-970b-fe8a387181ca)
+
+
+
+
+# RAPİD APİ BÖLÜMÜ :
+
+### IMDB'den PUANA GÖRE TOP 100 FILM LİSTELEME :
+![imdbtop100List](https://github.com/user-attachments/assets/ba5df01b-f2d9-4f18-97a2-ce419738a93f)
+
+### 1 TL'nin DİĞER PARA BİRİMLERİNE GÖRE KUR KARŞILIĞINI LİSTELEME :
+![dovizkur hesaplama](https://github.com/user-attachments/assets/75ea8cf6-c794-4255-bee6-b324c8bbd81e)
+
+### RAPİD API ŞEHİR ID'si BULMA (ANKARA) :
+![RapidAPI Şehir adından şehir idsi bulma ](https://github.com/user-attachments/assets/e56624d1-8bac-4329-864a-f565ef778f67)
+
+### RAPİD API ŞEHİR ID'si İLE OTEL ARAMA (ANKARA) :
+![RapidAPI Otel arama test](https://github.com/user-attachments/assets/bc8b067c-3a15-4ddf-9f16-c01f3f329fca)
+
+### ANKARA İÇİN OTEL LİSTELEME :
+![HotelList](https://github.com/user-attachments/assets/bb9910a6-fa45-412b-83f2-41189192a298)
+
+### BUDAPEŞTE İÇİN ŞEHİR İD'si BULMA :
+![Budapest için şehir idsini bulma](https://github.com/user-attachments/assets/98db918d-03ee-4339-89d2-09ab019088af)
+
+### ŞEHİR ID'si İLE BUDAPEŞTE de OTEL ARAMA :
+![ŞehirIDsine göre Otel Arama](https://github.com/user-attachments/assets/5db012b1-822f-4363-b04e-bfd9828c5035)
 
 
 
