@@ -139,12 +139,36 @@
 ### Roller (Listeleme-Düzenleme-Silme):
 ![Admin_RolePage](https://github.com/user-attachments/assets/0c6369a3-7c62-4757-9674-f0bb395c3152)
 
-### Otel Lokasyonları (Listeleme-Düzenleme-Silme):
+### Rol Atama (Listeleme-Düzenleme-Silme):
 ![Admin_RoleChange](https://github.com/user-attachments/assets/e06c896f-83db-4541-996f-e213e464c1c8)
 
 ### Profil Bilgilerini Görüntüleme ve Güncelleme (Listeleme-Düzenleme-Silme):
 ![Admin Profil Bilgileri ve şifreyi güncelle](https://github.com/user-attachments/assets/82b208f9-30ef-4255-8dbc-6309cb17acd3)
 
+
+
+# API BÖLÜMÜ :
+
+### API -1 :
+![Api - 1](https://github.com/user-attachments/assets/65164fc7-1e2a-4df4-a2ed-0975044544b0)
+
+### API -2 :
+![Api - 2](https://github.com/user-attachments/assets/a1268ac6-1906-4faa-9099-b721851b4660)
+
+### API -3 :
+![Api - 3](https://github.com/user-attachments/assets/bea3c185-c20a-408d-8a59-b89b1789f6ea)
+
+### API -4 :
+![Api - 4](https://github.com/user-attachments/assets/ea3483a8-a7f7-4d9a-b87f-50fba805304c)
+
+### API -5 :
+![Api - 5](https://github.com/user-attachments/assets/7b200cc4-6590-4ed2-843a-ff0e71aa2bed)
+
+### API -6 :
+![Api - 6](https://github.com/user-attachments/assets/c8a0811a-d462-41b2-8494-7c3c0c08a136)
+
+### API -7 :
+![Api - 7](https://github.com/user-attachments/assets/8f855ca0-bf19-4198-931b-c7ff65b2ff66)
 
 
 # GIF BÖLÜMÜ :
@@ -153,10 +177,8 @@
 
 
 ### Admin Panelde Hızlı Tur (Aşağıda gif yoksa bekleyin internet hızınıza bağlı yüklenecektir):
+![Ekran+Kaydı+2024-09-08+184328](https://github.com/user-attachments/assets/3f66f046-302b-4618-970b-fe8a387181ca)
 
-
-
-### Giriş Yapma ve Admin Panelde Menülerde Gezinme (Aşağıda gif yoksa bekleyin internet hızınıza bağlı yüklenecektir):
 
 
 
