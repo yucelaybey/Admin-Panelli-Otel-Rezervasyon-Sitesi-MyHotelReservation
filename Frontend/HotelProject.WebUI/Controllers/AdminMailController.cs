@@ -19,7 +19,7 @@ namespace HotelProject.WebUI.Controllers
             MimeMessage mimeMessage = new MimeMessage();
 
             //kimden gönderiliyor
-            MailboxAddress mailboxAddress = new MailboxAddress("HotelierAdmin", "yucelaybey01@gmail.com");
+            MailboxAddress mailboxAddress = new MailboxAddress("HotelierAdmin", "Otel-Mail-Adresi");
             mimeMessage.From.Add(mailboxAddress);
 
             //kime gönderiliyor
@@ -35,7 +35,7 @@ namespace HotelProject.WebUI.Controllers
 
             SmtpClient client = new SmtpClient();
             client.Connect("smtp.gmail.com", 587, false);
-            client.Authenticate("yucelaybey01@gmail.com", "dkmshnruxgdfblzt");
+            client.Authenticate("Otel-Mail-Adresi", "Otel-Mail-Adresinin anahtar kodu google hesabına girip alınacak");
             client.Send(mimeMessage);
             client.Disconnect(true);
 
