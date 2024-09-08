@@ -1,4 +1,4 @@
-# HOTELİER Reservaiton bir .NET 8.0 ürünüdür. ASPNET.IdentityCore ile güçlendirilmiştir. Admin Paneli resimleri alt taraftadır. En altta 3 adet uzun gifler mevcuttur. Birçok teknoloji kullanılmıştır.
+# HOTELİER Reservation bir .NET 8.0 ürünüdür. ASPNET.IdentityCore ile güçlendirilmiştir. Admin Paneli resimleri alt taraftadır. En altta 3 adet uzun gifler mevcuttur. Birçok teknoloji kullanılmıştır.
 
 # OTEL REZERVASYON BÖLÜMÜ :
 
